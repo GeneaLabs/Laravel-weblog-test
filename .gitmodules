@@ -1,0 +1,3 @@
+[submodule "packages/genealabs/laravel-weblog"]
+	path = packages/genealabs/laravel-weblog
+	url = git@github.com:GeneaLabs/laravel-weblog.git
