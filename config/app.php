@@ -145,6 +145,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        GeneaLabs\LaravelWeblog\Providers\LaravelWeblog::class,
     ],
 
     /*
